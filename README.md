@@ -64,4 +64,5 @@ I’ve wanted to share some key findings after reviewing the data on user transa
 3. Determine whether the 89-day Transactions dataset is representative of broader trends or if we should supplement it with additional data.
 
 Thanks,
+
 Emily
